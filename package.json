@@ -1,0 +1,14 @@
+{
+    "name" : "BiGFramework",
+    "description" : "my first framework for web app",
+    "version" : "0.0.1-pre",
+    "author" : "bigmusic <906006880@qq.com>",
+    "keywords" : [],
+    "private" : true,
+    "scripts" : {
+        "start" : "node app"
+    },
+    "dependencies" : {
+        "redis" : "*"
+    }
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>BiGFramework</title>
+
+		<script type="text/javascript" src="js/init.js" defer></script>
+	</head>
+	<body>
+		<h1>BiGFramework</h1>
+		<p>这是一个由HTML5+Nginx+Node.js+WebSocket+Redis组成的框架</p>
+		<p>完成客户端WebSocket对象暂名big.ws</p>
+		<p>服务器端由Node.js编写,WebSocket连接,只负责发送接受基本数据,计划渲染由客户端浏览器完成</p>
+		<p>约定:
+		   静态文件服务器为Nginx,端口80
+		</p>
+		<p>WebSocket服务器Node.js,端口8088</p>
+		<p>Redis数据库,由Node.js的child_process连接,端口8089</p>
+		<div id='w1'>w1</div>
+		<div id='w2'>w2</div>
+		<div id='cao'>cao</div>
+		<deferScript id='deferScript' style='display: none'></deferScript>
+	</body>
+</html>
