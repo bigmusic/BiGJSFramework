@@ -1,6 +1,6 @@
 # The study more than ten years ago is now a pure commemoration and memory
 
-# Year 2013
+# Year 2013, Year 2025 Readme by Gemini
 # BiGFramework / DynamicDocument 框架分析
 
 好的，這是一個非常有趣的自製前端框架，從程式碼的註解和結構來看，我們可以深入了解它的設計理念和功能。
